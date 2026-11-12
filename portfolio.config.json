@@ -1,0 +1,91 @@
+{
+  "name": "Neeru Sahu",
+  "title": "IT Consultant",
+  "tagline": "ITConsultant with 10+ years of IT experience, helping enterprises for dedveloping IT solutions",
+  "photo": "/profile.jpg",
+  "about": [
+    "I am an IT Consultant passionate about building innovative, scalable, and technology-driven solutions. I specialize in software development, Android and iOS application development, and modern website development. I help businesses transform their ideas into practical digital solutions by combining technical expertise, creative thinking, and a problem-solving approach.",
+    "My focus is on delivering secure, efficient, user-friendly, and business-oriented technology solutions that drive growth and digital transformation."
+  ],
+  "skills": [
+    "Software Development    Custom Software Solutions    Android App Development    Mobile Application Development    Web Application Development    Website Design & Development    API Development & Integration    CRM Development"
+  ],
+  "experience": [
+    {
+      "role": "IT Consultancy",
+      "company": "Disha International",
+      "period": "2020 - present",
+      "details": [
+        "Experienced IT Consultant with expertise in delivering end-to-end technology solutions across software development, web applications, mobile app development, and IT infrastructure.",
+        "Currently associated with Wipro Technologies, contributing to enterprise IT solutions and technology-driven business transformation.",
+        "Skilled in understanding business requirements, designing technical solutions, implementing modern technologies, and delivering secure, scalable, and efficient digital products. Passionate about exploring emerging technologies and helping businesses achieve their digital goals."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "BSCIT",
+      "school": "Goverment college Tonk",
+      "period": "2003-2006"
+    }
+  ],
+  "projects": [
+    {
+      "title": "E-Commerce Platform Development",
+      "description": "Development of a complete e-commerce platform with product management, secure payments, order tracking, customer management, and admin dashboard.\n\nPHP · MySQL · HTML · CSS · JavaScript · REST API",
+      "link": "",
+      "image": "/placeholder-project.svg"
+    },
+    {
+      "title": "Enterprise CRM Solution",
+      "description": "Design and implementation of a centralized CRM system to manage customers, business operations, sales pipelines, workflows, and reporting.\n\nCRM · Database Management · API Integration · Automation",
+      "link": "",
+      "image": "/placeholder-project.svg"
+    },
+    {
+      "title": "Corporate Website Development",
+      "description": "Development of responsive, professional business websites with modern UI/UX, dynamic content management, SEO optimization, and secure backend integration.\n\nHTML · CSS · JavaScript · PHP · MySQL",
+      "link": "",
+      "image": "/placeholder-project.svg"
+    },
+    {
+      "title": "Automated Trading & Workflow System",
+      "description": "Development of automated trading workflows integrating TradingView signals, exchange APIs, webhook communication, and automated trade execution.\n\nTradingView · Pine Script · n8n · REST API · Webhooks",
+      "link": "",
+      "image": "/placeholder-project.svg"
+    },
+    {
+      "title": "Android Mobile Application Development",
+      "description": "Development of user-friendly Android applications with backend integration, authentication, database connectivity, notifications, and business-focused features.\n\nAndroid · REST APIs · Database · Mobile UI/UX",
+      "link": "",
+      "image": "/placeholder-project.svg"
+    }
+  ],
+  "certifications": [],
+  "contact": {
+    "email": "neerusahu2013@gmail.com",
+    "phone": "9711276986",
+    "location": "Gautambuddha nagar"
+  },
+  "social": {
+    "linkedin": "https://www.linkedin.com/in/kedarsahu2007/",
+    "github": "https://github.com/kedarsahu09/",
+    "twitter": "https://x.com/kedarsahu09"
+  },
+  "mentoring": {
+    "enabled": true,
+    "headline": "Book a 1:1 IT Consultation with neerusahu",
+    "description": "Get expert guidance on technology, software development, and IT solutions through personalized one-to-one sessions.\n\nI can help you with:\n\n- IT Consulting and Technology Strategy\n- Website and Web Application Development\n- Android & Mobile App Development\n- Custom Software and CRM Solutions\n- Cloud Security (Microsoft Security & Wiz)\n- IT Infrastructure and Architecture\n- Project Planning and Technical Guidance\n- Career Guidance for Aspiring IT Professionals\n\nWhether you are a startup founder, business owner, IT professional, or aspiring developer, I can help you find the right technology solutions and turn your ideas into reality.",
+    "topmateUrl": "https://topmate.io/neerusahu"
+  },
+  "blog": {
+    "enabled": true,
+    "posts": [
+      {
+        "title": "How Modern IT Solutions Are Transforming Businesses Through Digital Innovation",
+        "date": "2026-11-12",
+        "body": "Technology is transforming the way businesses operate, communicate, and grow. From custom software and mobile applications to cloud computing and cybersecurity, modern IT solutions are helping organizations improve efficiency and achieve their business goals.\n\nAs an IT Consultant, I believe the right technology strategy is essential for digital transformation. Businesses should focus on scalable software, secure infrastructure, automation, and user-friendly digital experiences.\n\nMy goal is to help businesses leverage technology to solve real-world problems, simplify operations, and build a stronger digital future.\n\n**Technology is not just about innovation; it's about creating solutions that make a difference.**"
+      }
+    ]
+  }
+}
